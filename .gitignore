@@ -12,3 +12,11 @@ docs/
 
 # Dotenv file
 .env
+
+
+
+# Ignore node modules if using npm
+node_modules/
+
+# Ignore VS Code settings
+.vscode/
